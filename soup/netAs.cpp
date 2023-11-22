@@ -100,7 +100,8 @@ namespace soup
 		case 3223: // Voxility LLP
 		case 39743: // Voxility S.R.L. 
 		case 207137: // PacketHub S.A.
-		case 213250: // Dominic Scholz trading as ITP-Solutions GmbH & Co. KG	
+		case 213250: // Dominic Scholz trading as ITP-Solutions GmbH & Co. KG
+		case 400175: // Microtronix ESolutions, LLC
 			// NForce Entertainment B.V.
 		case 43350:
 		case 64437:	
